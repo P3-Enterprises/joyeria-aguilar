@@ -1,0 +1,5 @@
+{
+  "version": "1.2.0",
+  "releasedAt": "2026-04-14",
+  "notes": "Added Customer View mode, auto-link sales to inventory status, profit/margin calculation"
+}
